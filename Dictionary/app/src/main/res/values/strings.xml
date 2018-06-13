@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="seearchword">ಪದ ಹುಡುಕು</string>
+    <string name="searchHint">ಹುಡುಕು</string>
+    <string name="addNewWord">ಪದ ಸೇರಿಸಿ</string>
+    <string name="word">ಪದ</string>
+    <string name="wordMeaning">ಪದದ ಅಥ೯</string>
+</resources>
