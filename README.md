@@ -1,4 +1,4 @@
-# Kannada-Dictionary
+# Kannada-Dictionary Android Application
 
 ** Android Studio **
 1. Copy Dictionary folder to your android project folder, 
