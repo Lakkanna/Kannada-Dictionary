@@ -1,5 +1,14 @@
 # Kannada-Dictionary Android Application
 
+Functionality:
+
+1. Search kannada word for meaning
+2. Add new word meaning 
+
+NOTE: You need to install or setup Kannada keyboard
+
+**** SETUP ****
+
 ** Android Studio **
 1. Copy Dictionary folder to your android project folder, 
 2. Open android studio - click on File -> open project - select Dictionary 
@@ -24,4 +33,4 @@
 ** Database **
 1. Create new database called "Dictionary"
 2. Click on import select dictionary.sql file from Dictionary_Server folder. 
-		
+	
