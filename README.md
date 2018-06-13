@@ -33,4 +33,6 @@ NOTE: You need to install or setup Kannada keyboard
 ** Database **
 1. Create new database called "Dictionary"
 2. Click on import select dictionary.sql file from Dictionary_Server folder. 
+
+Output example: enter ಹುಡುಕು and click on search icon you'll get meaning of it.
 	
