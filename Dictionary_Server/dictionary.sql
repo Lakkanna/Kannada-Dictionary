@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Mar 31, 2018 at 04:10 AM
+-- Generation Time: Jun 13, 2018 at 01:35 PM
 -- Server version: 5.7.14
 -- PHP Version: 5.6.25
 
@@ -47,7 +47,8 @@ INSERT INTO `details` (`id`, `word`, `detail`) VALUES
 (8, 'Supreme', 'Highest in rank or authority.'),
 (10, 'à²¬à²²à²¿à²·à³à² ', 'à²¤à³à²‚à²¬ à²¬à²²à²µà²¾à²¦à³à²¦à³'),
 (11, 'Test', 'Examining the talent.'),
-(12, 'à²¬à²²à³à²®à³†', 'à²¸à²¾à²®à²°à³à²¥à³à²¯');
+(12, 'à²¬à²²à³à²®à³†', 'à²¸à²¾à²®à²°à³à²¥à³à²¯'),
+(13, 'à²¹à³à²¡à³à²•à³', 'à²ªà²¤à³à²¤à³† à²…à²šà³à²šà³à²µà³à²¦à³');
 
 --
 -- Indexes for dumped tables
@@ -68,7 +69,7 @@ ALTER TABLE `details`
 -- AUTO_INCREMENT for table `details`
 --
 ALTER TABLE `details`
-  MODIFY `id` int(255) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=13;
+  MODIFY `id` int(255) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=14;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
